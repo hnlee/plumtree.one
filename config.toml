@@ -2,3 +2,6 @@ baseURL = "http://plumtree.one/"
 languageCode = "en-us"
 title = "chorok"
 theme = "contrast"
+
+[permalinks]
+  posts = "/:year/:month/:title/"
