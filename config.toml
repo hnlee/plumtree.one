@@ -1,0 +1,4 @@
+baseURL = "http://plumtree.one/"
+languageCode = "en-us"
+title = "chorok"
+theme = "contrast"
