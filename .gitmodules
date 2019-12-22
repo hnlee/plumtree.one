@@ -3,4 +3,4 @@
 	url = https://github.com/niklasbuschmann/contrast-hugo.git
 [submodule "themes/contrast-green"]
 	path = themes/contrast-green
-	url = git@github.com:hnlee/contrast-hugo.git
+	url = https://github.com/hnlee/contrast-hugo.git
