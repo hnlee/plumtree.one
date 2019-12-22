@@ -1,11 +1,13 @@
 baseURL = "https://plumtree.one/"
 languageCode = "en-us"
 title = "chorok"
-theme = "contrast"
+theme = "contrast-green"
 enableEmoji = true
+watch = true
 
 [permalinks]
   posts = "/:year/:month/:title/"
 
 [frontmatter]
   date = ["publishDate", "date", "lastmod"]
+

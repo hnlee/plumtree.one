@@ -1,3 +1,6 @@
 [submodule "themes/contrast"]
 	path = themes/contrast
 	url = https://github.com/niklasbuschmann/contrast-hugo.git
+[submodule "themes/contrast-green"]
+	path = themes/contrast-green
+	url = https://github.com/hnlee/contrast-hugo.git
