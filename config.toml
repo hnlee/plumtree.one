@@ -7,8 +7,5 @@ enableEmoji = true
 [permalinks]
   posts = "/:year/:month/:title/"
 
-[blackfriday]
-  fractions = false
-
 [frontmatter]
   date = ["publishDate", "date", "lastmod"]
