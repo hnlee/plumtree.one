@@ -5,7 +5,7 @@ draft: false
 tags: ["poetry", "한국문학"]
 ---
 
-On winter solstice, Koreans eat [팥죽][patjuk] or red bean porridge, a food tradition that originates from China. By red bean, I mean [azuki][azuki], since Japanese names are often better known in English. Red bean wards off ghosts and other malevolent spirits, so on the longest night of the year, we eat red bean porridge to ward off bad luck. ([떡][tteok] or rice cake, made with red bean filling or coating, is also traditional fare for events like the hundred days celebration or the first birthday, for the same reason.)
+On winter solstice, Koreans eat [팥죽][patjuk] or red bean porridge, a food tradition that originates from China. By red bean, I mean [azuki][azuki], since Japanese names are often better known in English. Red bean repels ghosts and other malevolent spirits, so on the longest night of the year, we eat red bean porridge to ward off bad luck. ([떡][tteok] or rice cake, made with red bean filling or coating, is also traditional fare for events like the hundred days celebration or the first birthday, for the same reason.)
 
 I didn't grow up celebrating winter solstice because my parents, being very Catholic, did not practice what they considered to be superstitions. But in recent years, my mother has started to make 팥죽 for the holiday. Perhaps it marks the transition from superstition to custom.
 
@@ -19,8 +19,8 @@ First, the poem:
 
 When written completely in [한글][hangeul] (hangeul)[^1]:
 
->동짓달 기나긴 밤을 한 허리릉 버혀내여\
->춘풍 니불 아레 서릴서리 넣었다가\
+>동짓달 기나긴 밤을 한 허리를 버혀내여\
+>춘풍 니불 아레 서리서리 넣었다가\
 >어론 님 오신 날 밤이여든 구비구비 펴리라
 
 I took a course on Asian poetry during second semester of my senior undergraduate year, under [Prof. David McCann][mccann], who has done a lot of work to popularize the sijo form in English. At the same time, a [Korean drama about the life of Hwang Jin-i][kdrama] aired, starring one of my favorite actors, [하지원][hajiwon] (Ha Ji-won), in the eponymous role. This confluence of circumstances meant that I spent some time memorizing the poem and studying as many available English translations of it as possible.
@@ -63,11 +63,11 @@ Translation by David McCann:
 
 It is a love poem; part of the melancholy comes from the poet's uncertainty if the lover will return. 어론 means "beloved" but also sounds like "frozen": perhaps the lover is cold on this winter night, but perhaps his love has grown cold as well. Yet the poet still hopes for reunion in the spring. Interestingly, none of the translations I've seen so far chooses to use the word solstice, although part of the imagery of the poem hinges on it being the longest night of the year. "Would that I could save the nighttime now, to lengthen our night together when we meet again."
 
-Anyway, that was a long-winded way of saying: 동지팥죽 먹을 때마다 이별을 생각한다. (Whenever I eat red bean porridge on winter solstice, I think of separation.)
+Anyway, to put it more succinctly: 동지팥죽 먹을 때마다 이별을 생각한다. (Whenever I eat red bean porridge on winter solstice, I think of separation.)
 
-[^1]: A quick primer...prior to the invention (and yes, I do mean invention) of hangeul in the 15th century, Korean was written with Chinese characters or [한자][hanja] (hanja or 漢字). The Korean language has a high percentage of Sino-Korean loan words that can be written in hanja, and even after the invention of hangeul, most official government writing as well as "high" literature was still composed in hanja by male aristocracy during the Joseon period. Hangeul was meant for literate commoners and women. In many sijo, the interplay between hanja and hangeul (Sino-Korean and vernacular) adds a dimension both to the semantic and metrical qualities of the poem.
+[^1]: A quick primer...prior to the invention (and yes, I do mean invention) of hangeul in the 15th century, Korean was written with Chinese characters or [한자][hanja] (hanja or 漢字). The Korean language has a high percentage of Sino-Korean loan words that can be written in hanja, and even after the introduction of hangeul, most official government writing as well as "high" literature was still composed in hanja by male aristocracy during the Joseon period. Hangeul was meant for literate commoners and women. In many sijo, the interplay between hanja and hangeul (Sino-Korean and vernacular) adds a dimension both to the semantic and metrical qualities of the poem.
 
-[^2]: Like haiku, sijo consist of three lines. Unlike haiku, they can't be packaged as a mere matter of counting syllables. (Haiku themselves are more than just a series of 5-7-5 syllables; they require turns and season words, but that's a matter for a different post.) Each line in a sijo consists of two halves, each half itself divides into two sets of 3-4 syllables. The third line usually breaks this rhythm with a set of 5 syllables to emphasize the twist in meaning that occurs at the end. Sijo could also be performed as song; for example, here's a [video of this Hwang Jin-i sijo being sung][sijochang].
+[^2]: Like haiku, sijo consist of three lines. Unlike haiku, they can't be packaged as a mere matter of counting syllables. (Haiku themselves are more than just a series of 5-7-5 syllables; they require turns and season words, but that's a matter for a different post.) Each line in a sijo consists of two halves, each half itself divides into two sets of 3-4 syllables. The third line usually breaks this rhythm with a set of 5 syllables to emphasize the twist in meaning that occurs at the end. Sijo could also be performed vocally; for example, here's a [video of this Hwang Jin-i sijo being sung][sijochang].
 
 [patjuk]: https://en.wikipedia.org/wiki/Patjuk
 [azuki]: https://en.wikipedia.org/wiki/Adzuki_bean
