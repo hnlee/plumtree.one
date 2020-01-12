@@ -5,7 +5,7 @@ draft: false
 tags: ["sff", "fiction", "reviews"]
 ---
 
-First book read in 2020! _Realm of Ash_, by Tasha Suri, is a sequel to _Empire of Sand_, both part of her Books of Ambha series, which is a secondary world fantasy based on the Mughal empire.
+First book read in 2020! [_Realm of Ash_][realm of ash], by [Tasha Suri][tasha suri], is a sequel to [_Empire of Sand_][empire of sand], both part of her Books of Ambha series, which is a secondary world fantasy based on the Mughal empire.
 
 _Empire of Sand_ was Suri's debut novel, and while I enjoyed it enough to preorder the sequel, it did show some of clumsiness often seen in debut novels: a lack of technical polish and subtlety. _Realm of Ash_ is a clear level up. Characters are more complex, their decisions morally ambivalent and their motivations multilayered. What particularly struck me is Suri's improvement at evoking setting. The descriptions are grounded in more details and feel more immersive. From the widows' hermitage to the imperial palace in Ambha to the desert of Irinah, each place feels distinct and comes alive in all dimensions.
 
@@ -22,3 +22,7 @@ Zahir is a bit idealized but it's not a masculine ideal you see very often in We
 What _is_ unusual within the world of the novel is Arwa's desire to be an equal, despite her social status and gender, and Zahir's acceptance of her as such from the very beginning. That may be part wish fulfillment but I enjoyed it tremendously! It reminds me a bit of what I like so much about Harriet Vane and Peter Wimsey (my personal standard for heterosexual relationship dynamics in fiction): two fundamentally unequal partners building a relationship of equals, at least in part through the willingness to abdicate power on one side.
 
 There's other thematic content to chew on too: imperialism, cultural heritage, gender roles, religion... The way Arwa suppresses then desperately seeks whatever she can find of her Amrithi heritage feels reminiscent of the immigrant struggle with assimilation. The Hidden Ones, the secret order of female mystics disguised as courtesans, are also a fantastic concept; I hope we get to see more of them if Suri writes more in this series.
+
+[realm of ash]: https://tashasuri.com/realm-of-ash/
+[tasha suri]: https://twitter.com/tashadrinkstea
+[empire of sand]: https://tashasuri.com/empire-of-sand/
